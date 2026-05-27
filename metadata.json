@@ -1,0 +1,8 @@
+{
+  "name": "Remix: MotorideMoron",
+  "description": "Transporte de motos premium con portales de Cliente, Conductor y Administración, más documentación de arquitectura y API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
